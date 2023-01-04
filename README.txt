@@ -7,10 +7,13 @@ As of verion 1.3, the program will read a sample image made to represent a color
 to filter for the desired color, and produce an output image that contains only the desired color splotch, all else being made black. 
 
 To run standalone:
-1. Open the "build" folder
-2. Open the "Debug" folder
-3. Run the "SH_executable" file
-4. The program should run as expected! 
+1. In Github, click "Code", and select "Download ZIP" from the dropdown menu
+2. Extract the zip file.
+3. Open the "build" folder
+4. Open the "Debug" folder
+5. Run the "SH_executable" file
+6. The program should run as expected! If you want to try it with different images, simply place your chosen image into the debug folder,
+and edit the "imread" function with your image filename. 
 
 
 
