@@ -12,8 +12,9 @@ To run standalone:
 3. Open the "build" folder
 4. Open the "Debug" folder
 5. Run the "SH_executable" file
-6. The program should run as expected! If you want to try it with different images, simply place your chosen image into the debug folder,
-and edit the "imread" function with your image filename. 
+6. The program should run as expected! 
+
+If you want to try it with different images, simply place your chosen image into the debug folder, and edit the "imread" function in "main.cpp" with your image filename. If you want to change the color range that is detected, change the values of "lowerColor" and "upperColor" in "main.cpp".
 
 
 
