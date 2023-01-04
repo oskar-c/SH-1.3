@@ -15,7 +15,7 @@ To run standalone:
 
 
 
-To run this program on Windows using VSCode:
+To run this program on Windows using VSCode, watch this helpful video https://youtu.be/m9HBM1m_EMU, or follow instructions below:
 1. Install the necessary dependencies and extensions
 	a. OpenCV 4.6.0
 	b. VSCode 2019
